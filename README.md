@@ -49,7 +49,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-*(При необходимости замените команды под ваш язык и структуру проекта.)*
 
 ---
 
